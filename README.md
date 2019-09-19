@@ -5,8 +5,9 @@ Telkomsel Opok
 $ pkg update && pkg upgrade<br>
 $ pkg install python<br>
 $ pkg install git<br>
-$ git clone https://github.com/GebangKiidiw/tsel<br>
+$ git clone https://github.com/Andhie76/tsel<br>
 $ cd tsel<br>
-$ python joss.py<br>
+$ python Tsel.py<br>
 
-blog : https://www.abangjoss.com
+Grup Facebook: Kpn Tunnel Kalimantan
+
