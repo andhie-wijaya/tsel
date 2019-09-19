@@ -9,4 +9,5 @@ $ git clone https://github.com/GebangKiidiw/tsel<br>
 $ cd tsel<br>
 $ python joss.py<br>
 
-blog : https://www.abangjoss.com
+Grup Telegram
+https://t.me/joinchat/L4ETjkvSuETEjSnCYdkcGQ
